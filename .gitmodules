@@ -1,0 +1,3 @@
+[submodule "static-tip-website"]
+	path = static-tip-website
+	url = https://github.com/youzhiran/static-tip-website.git
